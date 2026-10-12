@@ -12,5 +12,5 @@ This project predicts house prices using machine learning techniques in python. 
 5. Tkinter
    
 # Project Files
--House_prediction.ipynb - Jupyter notebook containing the code
--Housing_data.csv - Dataset for training and testing
+- House_prediction.ipynb - Jupyter notebook containing the code
+- Housing_data.csv - Dataset for training and testing
