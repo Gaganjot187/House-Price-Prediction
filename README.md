@@ -14,3 +14,7 @@ This project predicts house prices using machine learning techniques in python. 
 # Project Files
 - House_prediction.ipynb - Jupyter notebook containing the code
 - Housing_data.csv - Dataset for training and testing
+
+## Project Screenshot
+
+![House Price Prediction GUI](House_price_prediction.png)
